@@ -1,4 +1,5 @@
 @startuml
+
 Instance <|-- VulkanRootObject
 
 class Instance {
@@ -8,4 +9,5 @@ class Instance {
     -- Public methods --
     + Initialize() : bool
 }
+
 @enduml
