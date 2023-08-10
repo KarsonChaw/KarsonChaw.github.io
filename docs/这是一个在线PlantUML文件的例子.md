@@ -1,2 +1,3 @@
 ```plantuml
+A -> B: Hello
 ```
